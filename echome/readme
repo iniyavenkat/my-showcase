@@ -1,0 +1,6 @@
+echo me is my invention that is designed to provide communicative assistance for patients with speech disabilities
+
+There are two major components in this application
+
+1. Backend functions that will provide the services to understand speech, context speech to text, generate sentences and suggest words. 
+2. Mobile applicaiton that will have the user interface for the patients to communicate and see responses 
